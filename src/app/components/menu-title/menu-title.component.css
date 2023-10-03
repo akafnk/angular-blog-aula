@@ -1,0 +1,17 @@
+.menu-title{
+    color:white
+}
+
+.menu-title h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 145px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.menu-title hr{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
